@@ -1,0 +1,45 @@
+html {
+  background-color: rgb(245, 208, 220);
+}
+
+body {
+  background-color: rgb(243, 235, 242);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid rgb(241, 227, 240);
+  width: 700px;
+  margin: 100px auto;
+  padding: 25px 75px;
+  border-radius: 133px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(227, 167, 233);
+}
+
+h1,
+a {
+  color: rgb(199, 133, 236);
+  text-decoration: dotted;
+}
+
+h4 {
+  color: rgb(184, 118, 131);
+}
+
+ul,
+ol {
+  list-style-position: inside;
+}
+
+li {
+  color: rgb(153, 111, 144);
+}
+
+ul {
+  color: rgb(128, 57, 71);
+}
+
+p {
+  color: rgb(228, 174, 214);
+}
